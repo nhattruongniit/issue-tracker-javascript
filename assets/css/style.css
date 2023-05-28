@@ -1,0 +1,36 @@
+
+
+/* desktop first
+@media (max-width: 768px) {
+  .paragythm {
+    color: red
+  }
+}
+
+@media (max-width: 690px) {
+  .paragythm {
+    color: red
+  }
+}
+
+@media (max-width: 640px) {
+  .paragythm {
+    color: rgb(25, 61, 120)
+  }
+} */
+
+/* 
+mobile first
+@media (min-width: 640px) {
+  .paragythm {
+    color: rgb(25, 61, 120)
+  }
+}
+
+@media (min-width: 768px) {
+  .paragythm {
+    color: red
+  }
+} 
+
+*/
